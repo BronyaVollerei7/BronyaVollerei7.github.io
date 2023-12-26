@@ -41,6 +41,14 @@ html {
     .navbar-brand:hover, .navbar-brand:focus {
       text-decoration: none; }
   
+
+      /* Menyusuaikan tinggi carousel dengan viewport height */
+@media (max-width: 700px) {
+  .carousel-inner {
+      height: 200px; /* Sesuaikan dengan kebutuhan Anda */
+  }
+}
+
   .navbar-text {
     display: inline-block;
     padding-top: 0.5rem;
