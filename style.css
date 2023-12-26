@@ -313,8 +313,8 @@ html {
   .footer-links-wrapper,
   .footer__logo {
     flex-basis: 100%;
-    margin-bottom: 40px; /* Increase the margin for more gap */
-    margin-left: 60px;
+    margin-bottom: 30px; /* Increase the margin for more gap */
+    margin-left: 70px;
   }
   
   .payment-img-wrapper {
@@ -382,7 +382,7 @@ html {
   
     .payment-options,
     .footer-links-wrapper {
-      flex-basis: 48%;
+      flex-basis: 20%;
     }
   
     .footer-links-item {
